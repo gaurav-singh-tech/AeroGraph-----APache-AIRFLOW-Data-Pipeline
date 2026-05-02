@@ -128,7 +128,7 @@ flowchart TB
 ---
 
 ## 🚀 Quickstart
-
+ 
 ### Option A — Run in a real Airflow environment (recommended)
 This repo contains **DAG files**. To run them properly, you need an **Airflow instance** and copy the DAG files into its DAG folder.
 
